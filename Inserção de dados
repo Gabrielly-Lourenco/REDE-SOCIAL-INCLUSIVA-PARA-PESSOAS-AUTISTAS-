@@ -1,0 +1,9 @@
+INSERT INTO usuarios 
+(nome, email, dataNascimento, senha)
+VALUES 
+(
+    'Maria da Silva',
+    'maria@email.com',
+    '2002-05-10',
+    '123456'
+);
